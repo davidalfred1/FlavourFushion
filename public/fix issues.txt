@@ -1,0 +1,24 @@
+-change btn var color to #purple
+-left for latest recipes, right for popular recipes
+-how to move the popular recipes text together with the recipes 
+-center the carousel-captions
+-do text-decoration for the links
+-fix the rss slow transformation
+-add animation to the images like zoom
+-fix the hr in the navbar dropdown
+-fix the grid templates collumns
+-add animations to the about page: the texts, imgs
+-fix the navbar in small screen
+DO zoom effect for the contactsubmittion page
+
+
+
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
+
+
+
